@@ -1,0 +1,7 @@
+D:\mphasis\Phase2\Assignment\Day8\Assignment8_Part2\Assignment8_Part2\bin\Debug\Assignment8_Part2.exe.config
+D:\mphasis\Phase2\Assignment\Day8\Assignment8_Part2\Assignment8_Part2\bin\Debug\Assignment8_Part2.exe
+D:\mphasis\Phase2\Assignment\Day8\Assignment8_Part2\Assignment8_Part2\bin\Debug\Assignment8_Part2.pdb
+D:\mphasis\Phase2\Assignment\Day8\Assignment8_Part2\Assignment8_Part2\obj\Debug\Assignment8_Part2.csproj.AssemblyReference.cache
+D:\mphasis\Phase2\Assignment\Day8\Assignment8_Part2\Assignment8_Part2\obj\Debug\Assignment8_Part2.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase2\Assignment\Day8\Assignment8_Part2\Assignment8_Part2\obj\Debug\Assignment8_Part2.exe
+D:\mphasis\Phase2\Assignment\Day8\Assignment8_Part2\Assignment8_Part2\obj\Debug\Assignment8_Part2.pdb
